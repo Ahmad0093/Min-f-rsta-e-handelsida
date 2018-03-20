@@ -1,0 +1,63 @@
+body {
+
+margin: 0;
+padding: 0;
+height: auto;
+width: auto;
+
+}
+
+
+
+
+
+header {
+
+height: 280px;
+width:  auto;
+background: green;
+
+}
+
+
+h1 {
+
+color: black;
+text-align: center;
+text-shadow: 2px 2px 10px;
+letter-spacing: 10px;
+
+}
+
+nav {
+
+padding: 20px;
+    
+
+}
+
+
+ul li{
+
+list-style: none;
+display: inline-block;
+
+}
+
+
+ul li a {
+
+text-decoration: none;
+padding: 15px;
+color: black;
+font-size: 18px;
+
+}
+
+
+ul li a:hover {
+
+color: red;
+text-shadow: 2px 2px 15px;
+}
+
